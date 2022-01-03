@@ -1,1 +1,2 @@
 # Transportes
+Atividade simples referente à disciplina de Econometria I. Estimativas da elasticidade renda em relação ao transporte privado e elasticidade gasto cruzado entre o transporte público e privado. São feitas estimativas para todo o Brasil, agrupando por regiões e agrupando por diferentes faixas de renda. São feitos teste para multicolinearidade e heterocedasticidade. Além disso, os coeficientes são estimados por regressão robusta para correção de heterocedasticidade. 
